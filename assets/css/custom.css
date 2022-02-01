@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.brand-style{
+  font-family: 'Dancing Script', cursive;
+}
+
+.title{
+  font-family: 'Shrikhand', cursive;
+}
+.subtitle{
+  font-family: 'Pacifico', cursive;
+}
